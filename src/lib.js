@@ -1,2 +1,1 @@
 exports.default = window.env;
-
