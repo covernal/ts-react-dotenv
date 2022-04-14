@@ -1,1 +1,3 @@
-exports.default = window.env;
+'use strict';
+
+module.exports = window.env;
