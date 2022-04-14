@@ -1,11 +1,11 @@
-# react-dotenv 🎛
+# ts-react-dotenv 🎛
 
 Load environment variables dynamically for your React applications created with CRA (Create-React-App).
 
 # Installation
 
 ```sh
-npm install react-dotenv
+npm install ts-react-dotenv
 ```
 
 # Usage
@@ -65,11 +65,11 @@ Now your project have the environment variables loaded **globally** in the `wind
 
 You can access the environment variables from your code in two ways:
 
-### A. Using the `react-dotenv` library
+### A. Using the `ts-react-dotenv` library
 
 ```jsx
 import React from "react";
-import env from "react-dotenv";
+import env from "ts-react-dotenv";
 
 export function MyComponent() {
   return <div>{env.API_URL}</div>;
