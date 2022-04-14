@@ -1,6 +1,6 @@
 {
   "name": "ts-react-dotenv",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Load environment variables dynamically for your Typescript React applications created with CRA (Create-React-App).",
   "author": "Vernal Liu",
   "license": "MIT",
